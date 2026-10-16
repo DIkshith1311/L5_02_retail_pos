@@ -1,0 +1,8 @@
+Bill 1: 126.00
+Bill 2 rejected: Unknown product: laptop
+Bill 3 rejected: Quantity must be a positive integer
+Bill 4 rejected: Tax rate must be a number between 0 and 1
+Stock update rejected: Unknown product: laptop
+After promo: 113.40
+Enter promo code (e.g. total - 50): After your promo: 76.00
+Sales so far: 126.00
